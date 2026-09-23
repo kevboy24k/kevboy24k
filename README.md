@@ -4,12 +4,15 @@
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
+![Siemens LOGO!](https://img.shields.io/badge/LOGO!%20Soft%20Comfort-009999?style=flat&logo=siemens&logoColor=white)
 ---
 
 ## 🚀 Sobre mí
@@ -70,15 +73,15 @@ Tecnologías:
 
 ---
 
-## 📈 GitHub
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevboy24k&show_icons=true)
+![Kevin's GitHub stats](https://github-stats-extended.vercel.app/api?username=kevboy24k&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevboy24k&layout=compact)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=kevboy24k&layout=compact&theme=github_dark)
 
 ---
 
 ## 📫 Contacto
 
-💼 LinkedIn: [TU_LINKEDIN](https://www.linkedin.com/in/kevin-alexander-solorzano-oliva-330b8b35a/)
+💼 LinkedIn: [MiLinkedin](https://www.linkedin.com/in/kevin-alexander-solorzano-oliva-330b8b35a/)
 
