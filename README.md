@@ -71,6 +71,21 @@ Tecnologías:
 
 `PHP` `Python` `JavaScript` `MySQL`
 
+### ⛽ Gasolina Comparador
+
+Plataforma web desarrollada para facilitar el **seguimiento y fiscalización de los precios de los combustibles en Guatemala**, permitiendo analizar su comportamiento histórico y compararlo con la evolución del precio internacional del petróleo.
+
+El objetivo del proyecto es facilitar el análisis de las variaciones en el precio de la gasolina y determinar qué tan relacionadas están con los cambios en el mercado petrolero.
+
+🔹 Seguimiento histórico de precios de combustibles  
+🔹 Comparación con el precio del petróleo  
+🔹 Visualización gráfica de tendencias  
+🔹 Análisis de variaciones de precios  
+🔹 Proyecto en desarrollo y mejora continua  
+
+**Tecnologías:** `HTML` `CSS` `JavaScript` `GitHub Pages`
+
+🌐 [Ver proyecto en línea](https://kevboy24k.github.io/GasolinaComparador/)
 ---
 
 ## 📈 GitHub Stats
